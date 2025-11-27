@@ -62,7 +62,7 @@ DELETE /curriculos/{id}
 
 
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Thiago Espinoza
 Desenvolvedor Full Stack
