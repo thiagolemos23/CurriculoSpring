@@ -45,7 +45,6 @@ docker-compose.yml
 ## ▶️ Como Rodar
 
 ### Rodar com Docker
-```bash
 docker compose up --build
 
 
@@ -66,3 +65,4 @@ DELETE /curriculos/{id}
 Thiago Espinoza
 Desenvolvedor Full Stack
 GitHub: https://github.com/thiagolemos23
+
