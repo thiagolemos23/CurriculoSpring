@@ -60,6 +60,8 @@ POST /curriculos
 PUT /curriculos/{id}
 DELETE /curriculos/{id}
 
+
+
 🧑‍💻 Autor
 
 Thiago Espinoza
